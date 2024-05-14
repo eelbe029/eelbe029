@@ -1,4 +1,5 @@
 ### Hi there 👋
+Just getting started around here :D
 - 🌱 I’m currently learning computer science at the University of Ottawa
 - 💬 I'm working on populating my profile with projects
 
