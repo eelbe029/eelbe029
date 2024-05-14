@@ -16,6 +16,8 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="css3 logo"  />
+  <img width="12" />
 </div>
 
 <!--
