@@ -8,7 +8,7 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/G/golang-go-logo-F87103EF81-seeklogo.com.png" height="30" alt="Golang logo"  />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="30" alt="Golang logo"  />
   <img width="12" />
   <img src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" height="30" alt="Prolog logo"  />
   <img width="12" />
@@ -24,7 +24,7 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="sql logo"  />
   <img width="12" />
-  <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" alt="laravel logo"  />
+  <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="Visual studio logo"  />
   <img width="12" />
