@@ -42,6 +42,8 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="30" alt="css3 logo"  />
+  <img width="12" />
 </div>
 
 <!--
