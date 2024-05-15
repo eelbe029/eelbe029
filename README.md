@@ -38,19 +38,14 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" height="30" alt="PhpStorm logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/dba915da1edb2e32b4051836cf553a341ea97b3738c52f763db02623492ddd78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f69642f616e64726f69642d6f726967696e616c2e737667" height="30" alt="css3 logo"  />
+  <img src="https://camo.githubusercontent.com/dba915da1edb2e32b4051836cf553a341ea97b3738c52f763db02623492ddd78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f69642f616e64726f69642d6f726967696e616c2e737667" height="30" alt="android logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" height="30" alt="css3 logo"  />
+  <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="30" alt="css3 logo"  />
+  <img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="30" alt="laragon logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" height="30" alt="Xampp logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" height="30" alt="Bootstrap logo"  />
   <img width="12" />
 </div>
-
-<!--
-**eelbe029/eelbe029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning computer science at the University of Ottawa
-- 💬 I'm currently working on pupulating my profile with projects
--->
