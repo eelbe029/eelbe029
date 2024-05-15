@@ -38,6 +38,8 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" height="30" alt="PhpStorm logo"  />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/dba915da1edb2e32b4051836cf553a341ea97b3738c52f763db02623492ddd78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f69642f616e64726f69642d6f726967696e616c2e737667" height="30" alt="css3 logo"  />
+  <img width="12" />
 </div>
 
 <!--
