@@ -2,7 +2,7 @@
 Just getting started around here :D
 - 🌱 I’m currently learning computer science at the University of Ottawa
 - 💬 I'm working on populating my profile with projects
-### Languages/Frameworks/IDE :
+### Languages + Frameworks + IDE :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
