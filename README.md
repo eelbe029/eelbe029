@@ -18,8 +18,6 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="30" height="30" alt="php logo" />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="30" height="30" alt="JS script logo"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,8 +35,6 @@ Just getting started around here :D
   <img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" height="30" alt="goland logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" height="30" alt="PhpStorm logo"  />
-  <img width="12" />
-  <img src="https://camo.githubusercontent.com/dba915da1edb2e32b4051836cf553a341ea97b3738c52f763db02623492ddd78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f69642f616e64726f69642d6f726967696e616c2e737667" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" height="30" alt="git logo"  />
   <img width="12" />
