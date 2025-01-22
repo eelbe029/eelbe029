@@ -3,6 +3,7 @@ Just getting started around here :D
 - 🌱 I’m currently learning computer science at the University of Ottawa
 - 💬 I'm working on populating my profile with projects
 ### Languages + Frameworks + IDE :
+<!-- TODO : Replace depreciated images -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -23,11 +24,13 @@ Just getting started around here :D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="sql logo"  />
-  <img width="12" />
+  <img width="12" /><!--
   <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" height="30" alt="laravel logo"  />
   <img width="12" />
+  -->
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="Visual studio logo"  />
   <img width="12" />
+  <!-- 
   <img src="https://seeklogo.com/images/P/pycharm-edu-logo-73119B2E09-seeklogo.com.png" height="30" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" height="30" alt="Intellij logo"  />
@@ -44,4 +47,5 @@ Just getting started around here :D
   <img width="12" />
   <img src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" height="30" alt="Bootstrap logo"  />
   <img width="12" />
+  -->
 </div>
