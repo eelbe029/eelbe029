@@ -48,11 +48,12 @@
 
 ---
 #### 💻 Code Editors
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ---
 
@@ -61,14 +62,6 @@
 - **FindNN** – Java-based nearest neighbor search using graph optimization.  
 - **Novigrad App** – Android Java app with Firebase and UML design patterns.  
 - **Space Invader** – Game built using Python & Pygame from scratch.
-
----
-
-#### 📫 Reach Me
-
-- 📧 [eelbe029@uottawa.ca](mailto:eelbe029@uottawa.ca)
-- 🌐 [linkedin.com/in/eelbe029](https://linkedin.com/in/eelbe029)
-- 🔗 [github.com/eelbe029](https://github.com/eelbe029)
 
 ---
 
