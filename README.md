@@ -1,22 +1,12 @@
-<h1 align="center">Hi there 👋 I'm El Hadj El Bechir</h1>
+<h1 align="center">Hi there 👋 I'm El Hadj</h1>
 
 <p align="center">
-  🇲🇷 Mauritanian · 🎓 Computer Science @ University of Ottawa (GPA: 9.4/10) · 💻 Software Developer
+  🎓 Computer Science @ University of Ottawa (GPA: 9.4/10) · 💻 Software Developer
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🧠 I'm passionate about building scalable software that solves real problems.
-- 💼 Currently sharpening my skills through co-ops and hands-on projects.
-- 🌍 Trilingual: English, French, Arabic.
-- 🔭 Currently working on web apps and data algorithms.
-- 🎯 Interested in full-stack development, backend systems, and applied AI.
-
----
-
-### 💼 Experience
+#### 💼 Experience
 
 - **Software Dev Intern @ Electronics4All** *(React, Node.js, MongoDB, AWS)*  
   → Built a full product lifecycle management app from scratch.
@@ -27,47 +17,54 @@
 
 ---
 
-### 🧰 Languages & Tools
+#### 🧰 Languages & Databases
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="30" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="30" alt="Go" />
-  <img src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" height="30" alt="Prolog" />
-  <img src="https://users.cs.northwestern.edu/~robby/logos/plt-logo-red-shiny.svg" height="30" alt="Scheme" />
-</div>
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ---
 
-### 🧠 Frameworks & Tools
+#### 🧠 Frameworks
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="VSCode" />
-</div>
+#### ☁️ Cloud System
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+
+---
+#### 💻 Code Editors
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ---
 
 ### 📦 Featured Projects
 
-- 🔍 **FindNN** – Java-based nearest neighbor search using graph optimization.  
-- 🧩 **Novigrad App** – Android Java app with Firebase and UML design patterns.  
-- 👾 **Space Invader** – Game built using Python & Pygame from scratch.
+- **FindNN** – Java-based nearest neighbor search using graph optimization.  
+- **Novigrad App** – Android Java app with Firebase and UML design patterns.  
+- **Space Invader** – Game built using Python & Pygame from scratch.
 
 ---
 
-### 📫 Reach Me
+#### 📫 Reach Me
 
 - 📧 [eelbe029@uottawa.ca](mailto:eelbe029@uottawa.ca)
 - 🌐 [linkedin.com/in/eelbe029](https://linkedin.com/in/eelbe029)
