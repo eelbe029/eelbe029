@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm El Hadj</h1>
 
 <p align="center">
-  🎓 Computer Science @ University of Ottawa (GPA: 9.4/10) · 💻 Software Developer
+  🎓 Computer Science @ University of Ottawa (GPA: 9.3/10) · 💻 Software Developer
 </p>
 
 ---
