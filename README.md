@@ -65,5 +65,5 @@
 - **Space Invader** – Game built using Python & Pygame from scratch.
 
 ---
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eelbe029&theme=github-compact&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-✨ Thanks for visiting!
